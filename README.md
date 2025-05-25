@@ -78,9 +78,9 @@ This project was built as part of my portfolio to showcase advanced SQL developm
 
 ## 📬 Contact
 
-**Author**: Kourosh [Your Last Name]  
-💼 LinkedIn: [your-link]  
-📧 Email: [your-email]  
+**Author**: Kourosh Emami
+💼 LinkedIn: https://www.linkedin.com/in/kourosh-emami/
+📧 Email: kourosh.emamyy@gmail.com
 
 ---
 
